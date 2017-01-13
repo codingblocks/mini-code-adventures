@@ -8,7 +8,7 @@ You can find the commands we wrote to get here on the blog:
 http://www.codingblocks.net/programming/make-website-with-yeoman/
 
 And you can watch the video of us setting it up here:
-(coming soon!)
+https://www.youtube.com/watch?v=PnciL69CJR4
 
 ## Running the project
 ```bash
