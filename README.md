@@ -12,7 +12,8 @@ https://www.youtube.com/watch?v=PnciL69CJR4
 
 ## Running the project
 ```bash
-git clone https://github.com/codingblocks/mini-code-adventures.git
+git clone https://github.com/codingblocks/mini-code-adventures-yeoman.git
+cd mini-code-adventures-yeoman
 npm install
 gulp serve
 ```
